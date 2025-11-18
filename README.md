@@ -51,25 +51,40 @@
 
 ---
 
-## 📱 Live Apps (Production)
+📱 Live Apps (Production)
 
-- 🏦 **Mashreq Bank (iOS)**  
-  https://apps.apple.com/ae/app/mashreq-uae/id378549193
+🏦 Mashreq Bank (iOS)
+https://apps.apple.com/ae/app/mashreq-uae/id378549193
 
-- 🏬 **Dubai Mall (iOS)**  
-  https://apps.apple.com/ae/app/dubai-mall/id430795858
+🏬 Dubai Mall (iOS)
+https://apps.apple.com/ae/app/dubai-mall/id430795858
 
-- 🌊 **Dubai Marina Mall (iOS)**  
-  https://apps.apple.com/us/app/dubai-marina-mall/id6443643409
+🏙 Dubai Hills Mall (iOS)
+https://apps.apple.com/us/app/dubai-hills-mall/id1607036126
 
-- ₿ **Delta Exchange – Crypto Options**  
-  https://apps.apple.com/in/app/delta-exchange-crypto-options/id6478332344
+🌊 Dubai Marina Mall (iOS)
+https://apps.apple.com/us/app/dubai-marina-mall/id6443643409
 
-- 🚗 **Njoy Outstation (Android)**  
-  https://play.google.com/store/apps/details?id=com.njoy_outstation&hl=en
+✈️ FlyMeOut (iOS)
+https://apps.apple.com/us/app/flymeout/id6450018140
 
-- 💅 **Niomi (iOS)**  
-  https://apps.apple.com/us/app/niomi/id1557434947
+📍 MapGhana (iOS)
+https://apps.apple.com/gb/app/mapghana/id1435047943
+
+₿ Delta Exchange – Crypto Options (iOS)
+https://apps.apple.com/in/app/delta-exchange-crypto-options/id6478332344
+
+🩺 DRS Panel – Doctor Appointment (Android)
+https://play.google.com/store/apps/details?id=com.drspanel
+
+🚗 Njoy Outstation (Android)
+https://play.google.com/store/apps/details?id=com.njoy_outstation&hl=en
+
+💅 Niomi (iOS)
+https://apps.apple.com/us/app/niomi/id1557434947
+
+📚 iPractice Builder (iOS)
+https://apps.apple.com/us/app/ipracticebuilder/id1511759546
 
 📌 **Built & contributed to 20+ high-quality mobile applications using React Native, React.js, SwiftUI, and Java Android.**
 ---
