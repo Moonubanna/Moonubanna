@@ -36,7 +36,7 @@
 - React Native (CLI & Expo)
 - Swift / SwiftUI (iOS)
 - Java (Android)
-- Native Modules · SDK Integrations · BLE · Camera · OCR · Media
+- Native SDK integrations (payments, BLE, OCR, auth, storage, media, maps, etc.)
 
 ### **Web**
 - React.js · JavaScript · TypeScript  
@@ -71,6 +71,7 @@
 - 💅 **Niomi (iOS)**  
   https://apps.apple.com/us/app/niomi/id1557434947
 
+📌 **Built & contributed to 20+ high-quality mobile applications using React Native, React.js, SwiftUI, and Java Android.**
 ---
 
 ## 📊 GitHub Stats
