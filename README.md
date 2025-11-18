@@ -97,65 +97,7 @@
 
 </p>
 
-<p align="center">
-
-  <a href="https://github.com/Moonubanna/UserContactList_ReactNative">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Moonubanna&repo=UserContactList_ReactNative&theme=radical" />
-  </a>
-
-  <a href="https://github.com/Moonubanna/Text-Detecting-from-Image-With-OCR-Language-Identification">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Moonubanna&repo=Text-Detecting-from-Image-With-OCR-Language-Identification&theme=radical" />
-  </a>
-
-</p>
-
-<p align="center">
-
-  <a href="https://github.com/Moonubanna/React-Native-Local-Authentication">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Moonubanna&repo=React-Native-Local-Authentication&theme=radical" />
-  </a>
-
-  <a href="https://github.com/Moonubanna/React-Native-PushNotification">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Moonubanna&repo=React-Native-PushNotification&theme=radical" />
-  </a>
-
-</p>
-
-<p align="center">
-
-  <a href="https://github.com/Moonubanna/ReactNativeStarter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Moonubanna&repo=ReactNativeStarter&theme=radical" />
-  </a>
-
-  <a href="https://github.com/Moonubanna/ReactNative-Redux-starter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Moonubanna&repo=ReactNative-Redux-starter&theme=radical" />
-  </a>
-
-</p>
-
-<p align="center">
-
-  <a href="https://github.com/Moonubanna/TodoListMob">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Moonubanna&repo=TodoListMob&theme=radical" />
-  </a>
-
-  <a href="https://github.com/Moonubanna/React-Native-Music-Player-2021">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Moonubanna&repo=React-Native-Music-Player-2021&theme=radical" />
-  </a>
-
-</p>
-
-<p align="center">
-
-  <a href="https://github.com/Moonubanna/NetflixClone-ReactJs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Moonubanna&repo=NetflixClone-ReactJs&theme=radical" />
-  </a>
-
-  <a href="https://github.com/Moonubanna/NodeJS-Authentication-RBAC">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Moonubanna&repo=NodeJS-Authentication-RBAC&theme=radical" />
-  </a>
-
-</p>
+<p align="center"> <a href="https://github.com/FullStackDevCoach/seven-ave-dev"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=FullStackDevCoach&repo=seven-ave-dev&theme=radical" /> </a> <a href="https://github.com/Moonubanna/TodoListMobile"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Moonubanna&repo=TodoListMobile&theme=radical" /> </a> </p> <p align="center"> <a href="https://github.com/Moonubanna/SecurePaidyTodo"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Moonubanna&repo=SecurePaidyTodo&theme=radical" /> </a> <a href="https://github.com/open-telemetry/opentelemetry-js"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=open-telemetry&repo=opentelemetry-js&theme=radical" /> </a> </p> <p align="center"> <a href="https://github.com/Moonubanna/ICloudDemo"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Moonubanna&repo=ICloudDemo&theme=radical" /> </a> <a href="https://github.com/Moonubanna/frontend-assignment-prod"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Moonubanna&repo=frontend-assignment-prod&theme=radical" /> </a> </p> <p align="center"> <a href="https://github.com/Moonubanna/MapGhanaa"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Moonubanna&repo=MapGhanaa&theme=radical" /> </a> <a href="https://github.com/Moonubanna/VOXO-REACT-NATIVE"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Moonubanna&repo=VOXO-REACT-NATIVE&theme=radical" /> </a> </p> <p align="center"> <a href="https://github.com/Moonubanna/ZoneTechTask"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Moonubanna&repo=ZoneTechTask&theme=radical" /> </a> <a href="https://github.com/Moonubanna/CasualFoundryTest"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Moonubanna&repo=CasualFoundryTest&theme=radical" /> </a> </p>
 
 ---
 
