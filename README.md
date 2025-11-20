@@ -22,7 +22,7 @@
 
 ## 🚀 About Me
 
-- 💼 Senior/Lead Mobile Engineer based in **Dubai, UAE**
+- 💼 Senior/Lead Mobile Engineer based in **Abu Dhabi, UAE**
 - 🔥 Leading features end-to-end — architecture → development → testing → production
 - 📱 Expert in complex **payment flows**, **QR scanning**, **authentication**, and **secure banking**
 - ⚙️ Strong with **native iOS (Swift/SwiftUI)** & **Android (Java)** bridges
